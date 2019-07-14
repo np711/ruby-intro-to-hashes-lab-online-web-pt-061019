@@ -1,13 +1,14 @@
-def new_hash
+def new_hash =({})
 
 end
 
-def actor
+def actor = {}
 
 end
 
-def monopoly
-	monopoly = {}
+def monopoly ={:railroads=>}
+  :pieces=>4,
+  :rent_in_dollars=
 
 end
 
