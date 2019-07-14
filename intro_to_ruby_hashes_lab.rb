@@ -34,9 +34,15 @@ def monopoly ={:railroads =>}
   },
   :b_and_o_railraod =>
   {
-    
-  
-
+   "mortage_value"=>"$400" 
+  },
+    :shortline =>
+  {
+    "mortage_value"=>"$800"
+  } 
+  }
+}
+}
 end
 
 def monopoly_with_second_tier
